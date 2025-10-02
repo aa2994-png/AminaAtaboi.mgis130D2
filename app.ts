@@ -44,7 +44,7 @@ interface APIError {
 // ==================== DATA LAYER ====================
 
 class WeatherAPI {
-    private readonly API_KEY: string = 'sS5fygzw6GdXzdn6UCgi2w==UuQyP6ZQyAycFmLs';
+    private readonly API_KEY: string = '23206451a6374fa52c19bbd5aa4daf5b';
     private readonly API_URL: string = 'https://api.openweathermap.org/data/2.5/weather';
 
     /**
